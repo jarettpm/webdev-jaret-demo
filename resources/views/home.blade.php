@@ -8,7 +8,7 @@
          ============================================ -->
     <section class="hero">
         <p class="eyebrow">
-            Proyecto base del curso
+            Proyecto base del curso: Hola Soy Jaret Jeje
         </p>
 
         <h1>
@@ -17,7 +17,7 @@
 
         <p class="hero__description">
             Esta aplicación servirá como punto de partida para aprender arquitectura MVC,
-            Blade, Eloquent, validación, pruebas, control de versiones y despliegue.
+            Blade, Eloquent, validación, pruebas, control de versiones y despliegue. Esta pagina ha sido modificada por Jaret
         </p>
 
         <span class="hero__status" data-app-status>
